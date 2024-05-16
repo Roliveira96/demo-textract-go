@@ -1,0 +1,1 @@
+# demo-textract-go
